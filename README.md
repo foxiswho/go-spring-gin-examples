@@ -1,6 +1,14 @@
 # go-spring-gin-examples
 go spring 整合 gin 框架使用案例
 
+# 框架
+```bash
+# go-spring 框架
+https://github.com/go-spring/spring-core
+# gin 框架
+https://github.com/gin-gonic/gin
+```
+
 # 导入数据库（Postgresql） sql
 使用 Postgresql 数据库，其他数据库 请自行修改。
 创建 数据库 demo，导入下面sql 文件
